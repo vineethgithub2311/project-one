@@ -3,7 +3,7 @@
 Dying Taxi Business in Chicago
 
 
-1. Taxi usage over time? (Trip ID, Timestamp)
+1. Taxi usage over time? (Trip ID, Timestamp) (Vineeth)
 2. Heat maps for pickups and dropoff for chicago city? (Censustract, googleAPI, 2013-2017)
 3. Cash vs credit over time (Trip ID, Trip Total)
 4. O'hare trip:
