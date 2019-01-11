@@ -5,7 +5,7 @@ Dying Taxi Business in Chicago
 
 1. Taxi usage over time?
 2. Heat maps for pickups and dropoff for chicago city?
-3. Cash vs credit
+3. Cash vs credit over time
 4. O'hare trip: Taxi
 5. Travel time to the airport (O'hare and Midway) from specific neighbourhoods?
 6. Trip cost over time to and from airports (O'hare and Midway) to downtown.
