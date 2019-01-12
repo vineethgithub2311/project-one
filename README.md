@@ -11,7 +11,7 @@ Dying Taxi Business in Chicago
    (Trip ID, Trip seconds, census for ohare and midway)
 6. Trip cost over time to and from airports (O'hare and Midway) to downtown. 
    (Trip ID, Trip Totals, census for ohare and midway)
-7. Census tract data for pickups for neighbourhoods in chicago. (Trip ID, census_tract, Trip Totals) (Rupal)
-8. Possibility of finding a taxi within 15 min. (Trip ID, Trip start Timestamp, Trip End Timestamp)
-9. Average Trip distance from specific neighbourhoods (Trip ID, Trip miles, census_tract)
+7. Census tract data for pickups for neighbourhoods in chicago. (Trip ID, census_tract, Trip Totals) (Vineeth)
+8. Possibility of finding a taxi within 15 min. (Trip ID, Trip start Timestamp, Trip End Timestamp) (Rupal)
+9. Average Trip distance from specific neighbourhoods (Trip ID, Trip miles, census_tract) (Vineeth)
 10. Trip per mile in a community (Rupal)
