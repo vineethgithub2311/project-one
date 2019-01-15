@@ -1,0 +1,61 @@
+age.png
+
+This graphs shows the distribution of trips based on the median age of the census tract where the pickup occured.
+What we can see is that the vast majority of trips occur in the 30-40 year range. We can think of some reasons why this might be 
+the case. Once people turn 40, they might move out of dense metropolitan areas where taxi rides are common and move
+to the suburbs, where they are likely to use their own vehicles for transport.
+
+dailytrips.png
+
+This graphs the daily trip totals from 2013 to 2017. There are a few spikes and drops that are interesting here.
+If we look at where all the spikes occur, they all happen to fall in the first two week of March of each year. That spike
+occurs because of St. Patrick's day Parade, which is the busiest day for taxi cabs.
+The drops all occur on Christmas day, which is the slowest day for taxis
+
+fare_distribution.png
+
+This graphs shows the distribution of fares. The vast vast majority of fares are below $10. We see a bump at the end over the 
+$30-40 range, and this is the bump from trips to and from O'Hare which are one of the most expensive ones.
+
+fare_over_time.png
+
+This plots the average fare per month. One of the things to notice here is the cyclicality of the average fare.
+The lowest average fare occurs in the winter months, and the highest average fare occurs in the summer months. We
+also notice the bump and dip from March to May. Not only is St Patrick's day the busiest in terms of number of trips, but
+it also carries the highest average fare.
+
+A second thing is we can clearly see that the average fare is increasing over time. If we want to speculate as to why, it might
+be because competition from ridesharing companies is much more intense at the lower range trips compared to the higher end.
+
+
+income_distribution1.png
+
+This is trip distribution based on household income of the census tract. The maximum usage occurs in the 80-90k range, and drops off
+after that. The number of trips below the 80k range is negligible. This tells us that the sweet spot for taxi usage is the
+upper middle classe income range, where people can afford the convinience of taxi cabs.
+
+income_distribution2.png
+
+The is trip distribution based on per capita income of the census tract. The highest is the 60k range, dropping off from that.
+If we wanted to look off for the cuttoff, which is at what income level do taxi cabs become feasible, this graphs tells us that
+for people who make more than 60k, taxis are affordable, but below that they are too expensive.
+
+payment.png
+
+This shows the payment type usage over time. Now one of the most surprising thing was the high cash usage in 2013.
+We were not expecting it. However, overtime that usage has dropped. But a second interesting thing is the plateauing we see 
+from 2016 onwards. Now we can think of reasons why the cash usage drops, and credit card usage rises, but we don't really have an 
+explanation for why they plateu from 2016. 
+
+
+usage.png
+
+This breaks down payment type based on the fare. As we can see for fares below $10, the vast majority of transaction as made in cash
+But as we start increasing the fare, credit card usage rises.
+
+trips.png
+
+This is the monthly trips over time. The most interesting thing here is that from 2013-mid-2015 the number of trips were flat.
+Uber launches in 2011 in Chicago. Lyft lauched in 2013. We can conclude that it took 
+
+heatmap.png
